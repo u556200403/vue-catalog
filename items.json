@@ -1,0 +1,1135 @@
+{
+  "categories": [{
+      "name": "Аксессуары",
+      "id": 77
+    },
+    {
+      "name": "Блендеры",
+      "id": 45
+    },
+    {
+      "name": "Вакууматоры",
+      "id": 78
+    },
+    {
+      "name": "Вертикальные пылесосы",
+      "id": 115
+    },
+    {
+      "name": "Вспениватели молока",
+      "id": 110
+    },
+    {
+      "name": "Кофе GARLYN",
+      "id": 114
+    },
+    {
+      "name": "Кофеварки",
+      "id": 46
+    },
+    {
+      "name": "Кофемашины",
+      "id": 106
+    },
+    {
+      "name": "Кофемолки",
+      "id": 92
+    },
+    {
+      "name": "Кухонные машины",
+      "id": 44
+    },
+    {
+      "name": "Мультиварки",
+      "id": 99
+    },
+    {
+      "name": "Мясорубки",
+      "id": 93
+    },
+    {
+      "name": "Паровые швабры",
+      "id": 120
+    },
+    {
+      "name": "Погружные блендеры",
+      "id": 86
+    },
+    {
+      "name": "Подарочные сертификаты",
+      "id": 119
+    },
+    {
+      "name": "Пылесосы",
+      "id": 96
+    },
+    {
+      "name": "Роботы мойщики",
+      "id": 109
+    },
+    {
+      "name": "Соковыжималки",
+      "id": 79
+    },
+    {
+      "name": "Средства по уходу за техникой",
+      "id": 111
+    },
+    {
+      "name": "Сушилки для овощей и фруктов",
+      "id": 80
+    },
+    {
+      "name": "Тостеры",
+      "id": 95
+    },
+    {
+      "name": "Хлебопечки",
+      "id": 43
+    },
+    {
+      "name": "Электрогрили",
+      "id": 91
+    },
+    {
+      "name": "Электрочайники",
+      "id": 85
+    }
+  ],
+  "products": [{
+      "id": 3032018,
+      "url": "https://garlyn.ru/product/komplekt-panelej-dlya-grilya-venskie-vafli-pgl-300/",
+      "price": 2990,
+      "categoryId": 77,
+      "name": "Комплект панелей для гриля \"Венские вафли\" GARLYN PGL-300",
+      "model": "Комплект панелей для гриля \"Венские вафли\" GARLYN PGL-300",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2023/01/pgl-300.4-mini-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-gl-300/",
+      "price": 16900,
+      "categoryId": 91,
+      "name": "GARLYN GL-300",
+      "model": "GARLYN GL-300",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2023/01/gl-300-front-rus.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-h-400/",
+      "price": 22900,
+      "categoryId": 108,
+      "name": "GARLYN H-400",
+      "model": "GARLYN H-400",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2023/01/h-400.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-d-11/",
+      "price": 9900,
+      "categoryId": 80,
+      "name": "GARLYN D-11",
+      "model": "GARLYN D-11",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2023/01/d-11-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-m-3500/",
+      "price": 27900,
+      "categoryId": 115,
+      "name": "GARLYN M-3500",
+      "model": "GARLYN M-3500",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2023/01/m-3500.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-h-200/",
+      "price": 12900,
+      "categoryId": 108,
+      "name": "GARLYN H-200",
+      "model": "GARLYN H-200",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2023/01/h-200.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/chasha-dlya-multivarki-garlyn-mr-m5/",
+      "price": 1490,
+      "categoryId": 77,
+      "name": "Чаша для мультиварки Garlyn MR-M5",
+      "model": "Чаша для мультиварки Garlyn MR-M5",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/mr-max-5-pic5-2.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-h-1000/",
+      "price": 4900,
+      "categoryId": 108,
+      "name": "GARLYN H-1000",
+      "model": "GARLYN H-1000",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/h-1000.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-pm-1300/",
+      "price": 11900,
+      "categoryId": 120,
+      "name": "GARLYN PM-1300",
+      "model": "GARLYN PM-1300",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/pm-1300_left-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/nozh-dlya-blendera-hb-320-dlya-bolshoj-chashi-izmelchitelya/",
+      "price": 490,
+      "categoryId": 77,
+      "name": "Нож для блендера HB-320 для большой чаши измельчителя",
+      "model": "Нож для блендера HB-320 для большой чаши измельчителя",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/img_9719.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/nozh-dlya-blendera-hb-310-hb-320-dlya-maloj-chashi-izmelchitelya/",
+      "price": 490,
+      "categoryId": 77,
+      "name": "Нож для блендера HB-310/HB-320 для малой чаши измельчителя",
+      "model": "Нож для блендера HB-310/HB-320 для малой чаши измельчителя",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/img_9723.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/filtr-metallicheskij-na-1-chashku-dlya-kofevarki-garlyn-l70/",
+      "price": 200,
+      "categoryId": 77,
+      "name": "Фильтр металлический на 1 чашку для кофеварки GARLYN L70",
+      "model": "Фильтр металлический на 1 чашку для кофеварки GARLYN L70",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/filter-1-cup.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/filtr-metallicheskij-na-2-chashki-dlya-kofevarki-garlyn-l70/",
+      "price": 200,
+      "categoryId": 77,
+      "name": "Фильтр металлический на 2 чашки для кофеварки GARLYN L70",
+      "model": "Фильтр металлический на 2 чашки для кофеварки GARLYN L70",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/filter-2-cups.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/chasha-malaya-s-kryshkoj-dlya-ruchnogo-blendera-hb-310-320/",
+      "price": 290,
+      "categoryId": 77,
+      "name": "Чаша малая с крышкой для ручного блендера HB-310/HB-320",
+      "model": "Чаша малая с крышкой для ручного блендера HB-310/HB-320",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/chasha-malaya-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/nozh-dlya-myasorubki-garlyn-mg-3000-5000/",
+      "price": 490,
+      "categoryId": 77,
+      "name": "Нож для мясорубки Garlyn MG-3000/5000",
+      "model": "Нож для мясорубки Garlyn MG-3000/5000",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/nozh-dlya-myasorubki.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/nasadka-kryuk-dlya-kuhonnoj-mashiny-garlyn-s-350-s-500/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Насадка-крюк для кухонной машины GARLYN S-350/S-500",
+      "model": "Насадка-крюк для кухонной машины GARLYN S-350/S-500",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/kruk2.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/nasadka-dlya-smeshivaniya-dlya-kuhonnoj-mashiny-garlyn-s-350-s-500/",
+      "price": 690,
+      "categoryId": 77,
+      "name": "Насадка для смешивания для кухонной машины GARLYN S-350/S-500",
+      "model": "Насадка для смешивания для кухонной машины GARLYN S-350/S-500",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/nasasdka-dlya-smeshivaniya.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/nasadka-venchik-dlya-kuhonnoj-mashiny-garlyn-s-350-s-500/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Насадка-венчик для кухонной машины GARLYN S-350/S-500",
+      "model": "Насадка-венчик для кухонной машины GARLYN S-350/S-500",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/venchik-2.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kontejner-dlya-vody-dlya-kofevarki-garlyn-l70/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Контейнер для воды для кофеварки GARLYN L70",
+      "model": "Контейнер для воды для кофеварки GARLYN L70",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/container-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/komplekt-smennyh-adapterov-dlya-myasorubki-garlyn-mg-3000/",
+      "price": 690,
+      "categoryId": 77,
+      "name": "Комплект сменных адаптеров для мясорубки Garlyn MG-3000",
+      "model": "Комплект сменных адаптеров для мясорубки Garlyn MG-3000",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/3-adaptera-1000.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/chasha-dlya-multivarki-garlyn-mr-d5/",
+      "price": 1490,
+      "categoryId": 77,
+      "name": "Чаша для мультиварки Garlyn MR-D5",
+      "model": "Чаша для мультиварки Garlyn MR-D5",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/chasha-dlya-multivarki.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/turboshhetka-dlya-robota-pylesosa-garlyn-sr-800/",
+      "price": 490,
+      "categoryId": 77,
+      "name": "Турбощетка для робота-пылесоса GARLYN SR-800",
+      "model": "Турбощетка для робота-пылесоса GARLYN SR-800",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/torbo-brush.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/salfetki-dlya-robota-pylesosa-garlyn-sr-800/",
+      "price": 590,
+      "categoryId": 77,
+      "name": "Салфетки для робота-пылесоса GARLYN SR-800",
+      "model": "Салфетки для робота-пылесоса GARLYN SR-800",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/salfetki-sr-800-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/nasadka-shinkovka-dlya-pogruzhnogo-blendera-garlyn-hb-310-320/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Насадка шинковка для погружного блендера Garlyn HB-310/320",
+      "model": "Насадка шинковка для погружного блендера Garlyn HB-310/320",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/shinkovka.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/nasadka-blender-dlya-pogruzhnogo-blendera-garlyn-hb-310-320/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Насадка \"Блендер\" для погружного блендера Garlyn HB-310/320",
+      "model": "Насадка \"Блендер\" для погружного блендера Garlyn HB-310/320",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/blender-for-310-320-2.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kontejner-dlya-pyli-dlya-robota-pylesosa-garlyn-sr-800/",
+      "price": 1490,
+      "categoryId": 77,
+      "name": "Контейнер для пыли для робота-пылесоса GARLYN SR-800",
+      "model": "Контейнер для пыли для робота-пылесоса GARLYN SR-800",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/img_9745.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kontejner-dlya-prigotovleniya-na-paru-mr-duo-5/",
+      "price": 290,
+      "categoryId": 77,
+      "name": "Контейнер для приготовления на пару MR-Duo 5",
+      "model": "Контейнер для приготовления на пару MR-Duo 5",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/steam-container.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kontejner-dlya-vlazhnoj-uborki-dlya-robota-pylesosa-garlyn-sr-800/",
+      "price": 1990,
+      "categoryId": 77,
+      "name": "Контейнер для влажной уборки для робота-пылесоса GARLYN SR-800",
+      "model": "Контейнер для влажной уборки для робота-пылесоса GARLYN SR-800",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/img_9743-2.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/hepa-filtr-dlya-suhoj-uborki-dlya-robota-pylesosa-garlyn-sr-800/",
+      "price": 290,
+      "categoryId": 77,
+      "name": "HEPA-фильтр для сухой уборки для робота-пылесоса GARLYN SR-800",
+      "model": "HEPA-фильтр для сухой уборки для робота-пылесоса GARLYN SR-800",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/hepa-filter-for-sr-800.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-k-200-max/",
+      "price": 8900,
+      "categoryId": 85,
+      "name": "GARLYN K-200 Max",
+      "model": "GARLYN K-200 Max",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/front.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-sr-400/",
+      "price": 23900,
+      "categoryId": 87,
+      "name": "GARLYN SR-400",
+      "model": "GARLYN SR-400",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/sr-400-vid-sverhu.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-sr-700/",
+      "price": 29900,
+      "categoryId": 87,
+      "name": "GARLYN SR-700",
+      "model": "GARLYN SR-700",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/12/sr-700_vid-sverhu.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/e-gift-certificate-50000/",
+      "price": 50000,
+      "categoryId": 119,
+      "name": "Электронный подарочный сертификат GARLYN на 50 000 рублей",
+      "model": "Электронный подарочный сертификат GARLYN на 50 000 рублей",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/50.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/e-gift-certificate-25000/",
+      "price": 25000,
+      "categoryId": 119,
+      "name": "Электронный подарочный сертификат GARLYN на 25 000 рублей",
+      "model": "Электронный подарочный сертификат GARLYN на 25 000 рублей",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/25.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/e-gift-certificate-20000/",
+      "price": 20000,
+      "categoryId": 119,
+      "name": "Электронный подарочный сертификат GARLYN на 20 000 рублей",
+      "model": "Электронный подарочный сертификат GARLYN на 20 000 рублей",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/20.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/e-gift-certificate-15000/",
+      "price": 15000,
+      "categoryId": 119,
+      "name": "Электронный подарочный сертификат GARLYN на 15 000 рублей",
+      "model": "Электронный подарочный сертификат GARLYN на 15 000 рублей",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/15.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/e-gift-certificate-10000/",
+      "price": 10000,
+      "categoryId": 119,
+      "name": "Электронный подарочный сертификат GARLYN на 10 000 рублей",
+      "model": "Электронный подарочный сертификат GARLYN на 10 000 рублей",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/10.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/e-gift-certificate-5000/",
+      "price": 5000,
+      "categoryId": 119,
+      "name": "Электронный подарочный сертификат GARLYN на 5 000 рублей",
+      "model": "Электронный подарочный сертификат GARLYN на 5 000 рублей",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/5.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-mr-max-5/",
+      "price": 12900,
+      "categoryId": 99,
+      "name": "GARLYN MR-Max 5",
+      "model": "GARLYN MR-Max 5",
+      "description": "Приготовление любимых блюд и кулинарные эксперименты – с особым удобством! Автопрограммы и ручная настройка собственных рецептов, широкий диапазон настройки температуры и времени. Цветовая индикация всех этапов приготовления.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/mr-max-5-1500x1500-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-w-02/",
+      "price": 1990,
+      "categoryId": 94,
+      "name": "GARLYN W-02",
+      "model": "GARLYN W-02",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/w-02.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-m-3000/",
+      "price": 24900,
+      "categoryId": 115,
+      "name": "GARLYN M-3000",
+      "model": "GARLYN M-3000",
+      "description": "Новое качество уборки дома с GARLYN M-3000. До 40 минут непрерывной работы и автоматическая регулировка мощности для уборки любых покрытий. Подсветка зон уборки и очистка труднодоступных мест с технологией BEND.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/10/bez-imeni-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kofe-v-kapsulah-garlyn-red-orange-s-aromatom-krasnogo-apelsina/",
+      "price": 490,
+      "categoryId": 114,
+      "name": "Кофе в капсулах GARLYN Red Orange с ароматом красного апельсина",
+      "model": "Кофе в капсулах GARLYN Red Orange с ароматом красного апельсина",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/10/red-orange-1000.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kofe-v-kapsulah-garlyn-nocci-amaro/",
+      "price": 490,
+      "categoryId": 114,
+      "name": "Кофе в капсулах GARLYN Nocci Amaro",
+      "model": "Кофе в капсулах GARLYN Nocci Amaro",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/10/nocci-amaro-1000.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kofe-v-kapsulah-garlyn-irish-cream-s-aromatom-irlandskogo-krema/",
+      "price": 490,
+      "categoryId": 114,
+      "name": "Кофе в капсулах GARLYN Irish Cream с ароматом ирландского крема",
+      "model": "Кофе в капсулах GARLYN Irish Cream с ароматом ирландского крема",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/10/irish-cream-2-1000.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kofe-v-kapsulah-garlyn-chocolate-s-aromatom-shokolada/",
+      "price": 490,
+      "categoryId": 114,
+      "name": "Кофе в капсулах GARLYN Chocolate с ароматом шоколада",
+      "model": "Кофе в капсулах GARLYN Chocolate с ароматом шоколада",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/10/chocolate-1000.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kofe-v-kapsulah-garlyn-almond-s-aromatom-mindalya/",
+      "price": 490,
+      "categoryId": 114,
+      "name": "Кофе в капсулах GARLYN Almond с ароматом миндаля",
+      "model": "Кофе в капсулах GARLYN Almond с ароматом миндаля",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/10/almond-1000.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kofe-v-kapsulah-garlyn-vanilla-s-aromatom-vanili/",
+      "price": 490,
+      "categoryId": 114,
+      "name": "Кофе в капсулах GARLYN Vanilla с ароматом ванили",
+      "model": "Кофе в капсулах GARLYN Vanilla с ароматом ванили",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/10/vanilla-1000-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kofe-naturalnyj-molotyj-garlyn-espresso-chiaro-250-gr/",
+      "price": 490,
+      "categoryId": 114,
+      "name": "Кофе натуральный молотый GARLYN Espresso Chiaro 250 гр.",
+      "model": "Кофе натуральный молотый GARLYN Espresso Chiaro 250 гр.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/10/img_7711-1000.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kofe-zharenyj-v-zyornah-garlyn-quattro-arabica-1-kg/",
+      "price": 1490,
+      "categoryId": 114,
+      "name": "Кофе жареный в зёрнах GARLYN QUATTRO ARABICA 1 кг",
+      "model": "Кофе жареный в зёрнах GARLYN QUATTRO ARABICA 1 кг",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/09/img_20220907_122726_481-2.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kofe-zharenyj-v-zyornah-garlyn-quattro-arabica-025-kg/",
+      "price": 490,
+      "categoryId": 114,
+      "name": "Кофе жареный в зёрнах GARLYN QUATTRO ARABICA 0,25 кг",
+      "model": "Кофе жареный в зёрнах GARLYN QUATTRO ARABICA 0,25 кг",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/09/zernovoe-250.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-k-120/",
+      "price": 3490,
+      "categoryId": 85,
+      "name": "GARLYN K-120",
+      "model": "GARLYN K-120",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/07/k-120-left-panel-view-s-sinej-vodoj-70.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/sredstvo-dlya-ochistki-nakipi/",
+      "price": 490,
+      "categoryId": 111,
+      "name": "Средство для очистки от накипи для кофемашин и кофеварок Garlyn (250мл)",
+      "model": "Средство для очистки от накипи для кофемашин и кофеварок Garlyn (250мл)",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/07/dlya-udaleniya-nakipi-2.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/sredstvo-dlya-ochistki-molochnyh-sistem/",
+      "price": 490,
+      "categoryId": 111,
+      "name": "Средство для очистки молочных систем кофемашин и кофеварок Garlyn (250мл)",
+      "model": "Средство для очистки молочных систем кофемашин и кофеварок Garlyn (250мл)",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/07/dlya-ochistki-molochnyh-sistem-2.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-af-01/",
+      "price": 4900,
+      "categoryId": 110,
+      "name": "GARLYN AF-01",
+      "model": "GARLYN AF-01",
+      "description": "Взбивание и подогрев молока. Вместимость – 250 мл. Корпус из нержавеющей стали. Автоматическое отключение. 2 типа подключения: к розетке и к кофеварке GARLYN L8 ML.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/06/garlyn-af-01.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/komplekt-kuhonnyh-aksessuarov-garlyn-kitchen-set-42/",
+      "price": 4900,
+      "categoryId": 77,
+      "name": "Комплект кухонных аксессуаров GARLYN Kitchen Set 42",
+      "model": "Комплект кухонных аксессуаров GARLYN Kitchen Set 42",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/11/frame-210963.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/komplekt-salfetok-dlya-robota-mojshhika-okon-garlyn-maxclean/",
+      "price": 1990,
+      "categoryId": 77,
+      "name": "Комплект салфеток для робота-мойщика окон GARLYN MaxClean",
+      "model": "Комплект салфеток для робота-мойщика окон GARLYN MaxClean",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/05/fibra.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/bokovye-shhetki-dlya-robota-pylesosa-garlyn-sr-800/",
+      "price": 690,
+      "categoryId": 77,
+      "name": "Боковые щетки для робота-пылесоса GARLYN SR-800",
+      "model": "Боковые щетки для робота-пылесоса GARLYN SR-800",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/schetki.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/chasha-dlya-kuhonnoj-mashiny-garlyn-s-350/",
+      "price": 2990,
+      "categoryId": 77,
+      "name": "Чаша для кухонной машины GARLYN S-350",
+      "model": "Чаша для кухонной машины GARLYN S-350",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/chascha-s-350.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/chasha-dlya-kuhonnoj-mashiny-garlyn-s-500/",
+      "price": 2990,
+      "categoryId": 77,
+      "name": "Чаша для кухонной машины Garlyn S-500",
+      "model": "Чаша для кухонной машины Garlyn S-500",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/chascha-s-500.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-maxclean/",
+      "price": 44900,
+      "categoryId": 109,
+      "name": "GARLYN MaxClean",
+      "model": "GARLYN MaxClean",
+      "description": "Имитация ручной очистки с подвижным моющим блоком. Безупречная чистота окон, кафеля и зеркал. Встроенные режимы работы, управление со смартфона и интеллектуальная система навигации. Всегда чистые окна с роботом-мойщиком GARLYN MaxClean.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/02/garlyn-maxclean-1000x1000-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-h-7000/",
+      "price": 39900,
+      "categoryId": 108,
+      "name": "GARLYN H-7000",
+      "model": "GARLYN H-7000",
+      "description": "Безопасный индукционный нагрев, функция POWER BOOST и единая зона \"Мост\". Функция паузы, встроенный таймер и отключение звуковых сигналов. Мощность и стиль, комфорт и безопасность, управление одним касанием.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/12/garlyn-h-7000-2-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-l8-ml/",
+      "price": 14900,
+      "categoryId": 46,
+      "name": "GARLYN L8 ML",
+      "model": "GARLYN L8 ML",
+      "description": "Используйте напитки в капсулах или готовьте эспрессо из молотого кофе. Насыщенный вкус и аромат, 7 температурных режимов, давление 19 бар.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/l8-ml_front.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-sr-800-max/",
+      "price": 39900,
+      "categoryId": 87,
+      "name": "GARLYN SR-800 Max",
+      "model": "GARLYN SR-800 Max",
+      "description": "Сверхточная навигация с технологией LIDAR и 150 минут непрерывной сухой и влажной уборки. Управляйте со смартфона, сохраняя до 5 карт помещений и настраивая уборку по расписанию. Ежедневная чистота дома без лишних усилий.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2022/01/sr-800-max-vid-sverhu.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/komplekt-smennyh-meshkov-dlya-pylesosa-garlyn-bv-300/",
+      "price": 590,
+      "categoryId": 77,
+      "name": "Комплект сменных мешков для пылесоса Garlyn BV-300",
+      "model": "Комплект сменных мешков для пылесоса Garlyn BV-300",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/11/bez-imeni-1-scaled.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/komplekt-banochek-dlya-prigotovleniya-jogurta-garlyn-jj-01/",
+      "price": 1990,
+      "categoryId": 77,
+      "name": "Комплект баночек для приготовления йогурта GARLYN JJ-01",
+      "model": "Комплект баночек для приготовления йогурта GARLYN JJ-01",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/09/bez-imeni-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-l1000/",
+      "price": 49900,
+      "categoryId": 106,
+      "name": "GARLYN L1000",
+      "model": "GARLYN L1000",
+      "description": "Любимые напитки одним касанием с настройкой рецептов по своему вкусу. Регулировка крепости кофе и тонкости помола. Ваш личный бариста 24/7.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/l1000_left-viewmilk_bez-zasvetki-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-mr-duo-5/",
+      "price": 14900,
+      "categoryId": 99,
+      "name": "GARLYN MR-Duo 5",
+      "model": "GARLYN MR-Duo 5",
+      "description": "До 4 блюд - за одно приготовление. Мультиварка с 2 чашами: минимум времени и максимум удобства. 10 автопрограмм и функция GARLYN ШЕФ.\n Десерты и закуски, выпечка и горячие блюда, гарниры и супы - в авторежиме! Регулировка температуры и времени приготовления.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/09/eda-v-chashe-2.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-d-09/",
+      "price": 16900,
+      "categoryId": 80,
+      "name": "GARLYN D-09",
+      "model": "GARLYN D-09",
+      "description": "Для сушки овощей и фруктов, грибов и ягод, зелени и трав, рыбы и мяса, приготовления йогурта и пастилы. Равномерная сушка на всех уровнях. Максимальная комплектация и электронное управление.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/07/garlyn-d-09-main.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-j-600-max/",
+      "price": 14900,
+      "categoryId": 79,
+      "name": "GARLYN J-600 Max",
+      "model": "GARLYN J-600 Max",
+      "description": "Соковыжималка 3в1 приготовит свежевыжатые соки и сорбеты, измельчит салаты и закуски в авторежиме. 8 автопрограмм и запуск одним касанием.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/07/j-600-max-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-mg-5000/",
+      "price": 24900,
+      "categoryId": 93,
+      "name": "GARLYN MG-5000",
+      "model": "GARLYN MG-5000",
+      "description": "Готовьте до 5,5 кг фарша всего за 2 минуты! Функционал 3в1: мясорубка + соковыжималка + овощерезка. Регулировка скорости и электронная система управления. Любимые блюда и домашние заготовки - в разы быстрее.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/06/garlyn-mg-5000-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/nasadka-dlya-prigotovleniya-dranikov-dlya-ruchnogo-blendera-garlyn-hb-320/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Насадка для приготовления драников для ручного блендера GARLYN HB-320",
+      "model": "Насадка для приготовления драников для ручного блендера GARLYN HB-320",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/05/dlya-dranikov-320.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/lopatka-dlya-zamesa-dlya-hlebopechki-garlyn-br-1000/",
+      "price": 750,
+      "categoryId": 77,
+      "name": "Лопатка для замеса теста Garlyn",
+      "model": "Лопатка для замеса теста Garlyn",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/04/lopatka-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/derzhatel-dlya-nasadok-ruchnyh-blenderov-hb-310-hb-320/",
+      "price": 1190,
+      "categoryId": 77,
+      "name": "Держатель для насадок ручных блендеров GARLYN HB-310/320",
+      "model": "Держатель для насадок ручных блендеров GARLYN HB-310/320",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/04/podstavka-2.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/komplekt-aksessuarov-dlya-hlebopechki-garlyn-br-1000/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Комплект аксессуаров для хлебопечки GARLYN BR-1000",
+      "model": "Комплект аксессуаров для хлебопечки GARLYN BR-1000",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/1666-mini.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/rozhok-dlya-kofevarki-garlyn-l70/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Рожок для кофеварки GARLYN L70",
+      "model": "Рожок для кофеварки GARLYN L70",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/rojok-garlyn-l70.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/nasadka-dlya-prigotovleniya-pyure-dlya-ruchnyh-blenderov-garlyn-hb-310-320/",
+      "price": 1490,
+      "categoryId": 77,
+      "name": "Насадка для приготовления пюре для ручных блендеров GARLYN HB-310/320",
+      "model": "Насадка для приготовления пюре для ручных блендеров GARLYN HB-310/320",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/pure.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/nasadka-mikser-dlya-ruchnyh-blenderov-garlyn-hb-310-320/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Насадка-миксер для ручных блендеров GARLYN HB-310/320",
+      "model": "Насадка-миксер для ручных блендеров GARLYN HB-310/320",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/mikser.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/vedyorko-dlya-zameshivaniya-dlya-hlebopechki-garlyn-br-1000/",
+      "price": 1990,
+      "categoryId": 77,
+      "name": "Ведёрко для замешивания для хлебопечки GARLYN BR-1000",
+      "model": "Ведёрко для замешивания для хлебопечки GARLYN BR-1000",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/vederko-dlya-pechki.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/shnek-dlya-sokovyzhimalki-garlyn-j-700-pro/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Шнек для соковыжималки GARLYN J-700 Pro",
+      "model": "Шнек для соковыжималки GARLYN J-700 Pro",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/garl-j-700-10.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/kontejner-dlya-vlazhnoj-uborki-dlya-robota-pylesosa-garlyn-sr-600/",
+      "price": 1490,
+      "categoryId": 77,
+      "name": "Контейнер для влажной уборки для робота-пылесоса GARLYN SR-600",
+      "model": "Контейнер для влажной уборки для робота-пылесоса GARLYN SR-600",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/1-2.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/pult-du-dlya-robota-pylesosa-garlyn-sr-600/",
+      "price": 990,
+      "categoryId": 77,
+      "name": "Пульт ДУ для робота-пылесоса GARLYN SR-600",
+      "model": "Пульт ДУ для робота-пылесоса GARLYN SR-600",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/pult-1-mini.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/kontejner-dlya-pyli-dlya-robota-pylesosa-garlyn-sr-600/",
+      "price": 2390,
+      "categoryId": 77,
+      "name": "Контейнер для пыли для робота-пылесоса GARLYN SR-600",
+      "model": "Контейнер для пыли для робота-пылесоса GARLYN SR-600",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/pylesbornik-1-mini.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/akkumulyator-dlya-robota-pylesosa-garlyn-sr-600/",
+      "price": 4490,
+      "categoryId": 77,
+      "name": "Аккумулятор для робота-пылесоса GARLYN SR-600",
+      "model": "Аккумулятор для робота-пылесоса GARLYN SR-600",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/battery-sr-600.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/bokovye-shhetki-dlya-robota-pylesosa-garlyn-sr-600/",
+      "price": 390,
+      "categoryId": 77,
+      "name": "Боковые щетки для робота-пылесоса GARLYN SR-600",
+      "model": "Боковые щетки для робота-пылесоса GARLYN SR-600",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/4-2.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/turboshhetka-dlya-robota-pylesosa-garlyn-sr-600/",
+      "price": 490,
+      "categoryId": 77,
+      "name": "Турбощетка для робота-пылесоса GARLYN SR-600",
+      "model": "Турбощетка для робота-пылесоса GARLYN SR-600",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/turboschetka-sr-600.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/salfetki-dlya-robota-pylesosa-garlyn-sr-600/",
+      "price": 590,
+      "categoryId": 77,
+      "name": "Салфетки для робота-пылесоса GARLYN SR-600",
+      "model": "Салфетки для робота-пылесоса GARLYN SR-600",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/2-2-2-scaled.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/filtr-predvaritelnoj-ochistki-dlya-robota-pylesosa-garlyn-sr-600/",
+      "price": 290,
+      "categoryId": 77,
+      "name": "Фильтр предварительной очистки для робота-пылесоса GARLYN SR-600",
+      "model": "Фильтр предварительной очистки для робота-пылесоса GARLYN SR-600",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/predvaritelny-filter-2.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/hepa-filtr-dlya-robota-pylesosa-garlyn-sr-600/",
+      "price": 390,
+      "categoryId": 77,
+      "name": "HEPA-фильтр для робота-пылесоса GARLYN SR-600",
+      "model": "HEPA-фильтр для робота-пылесоса GARLYN SR-600",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/03/hepa-filter-2.jpg"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-cv-500/",
+      "price": 16900,
+      "categoryId": 96,
+      "name": "GARLYN CV-500",
+      "model": "GARLYN CV-500",
+      "description": "Широкий диапазон мощности для очистки любых напольных покрытий. Турбощётка и насадки для мебели - всё, что нужно для поддержания чистоты.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/01/cv-500-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-bv-300/",
+      "price": 19900,
+      "categoryId": 96,
+      "name": "GARLYN BV-300",
+      "model": "GARLYN BV-300",
+      "description": "5 режимов уборки и широкий набор насадок для уборки любых напольных покрытий и труднодоступных мест. Мощность всасывания 450 Вт.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/01/bv-300-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-cg-01/",
+      "price": 3900,
+      "categoryId": 92,
+      "name": "GARLYN CG-01",
+      "model": "GARLYN CG-01",
+      "description": "Измельчение кофейных зерен за несколько секунд. Вместимость 50 г. Чаша и ножи из нержавеющей стали. Ручная регулировка помола.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/01/cg-01.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-tr-200/",
+      "price": 3900,
+      "categoryId": 95,
+      "name": "GARLYN TR-200",
+      "model": "GARLYN TR-200",
+      "description": "Идеальные тосты из любых сортов хлеба. 7 степеней прожарки, функции разморозки и подогрева. Стильный помощник для самых вкусных завтраков.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/07/tr-200.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-mg-3000/",
+      "price": 16900,
+      "categoryId": 93,
+      "name": "GARLYN MG-3000",
+      "model": "GARLYN MG-3000",
+      "description": "До 5 кг фарша за 2 минуты, регулировка помола. Мясорубка + овощерезка с функцией тёрки и шинковки, насадка для драников в комплекте.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/01/garlyn-mg-3000-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-w-01/",
+      "price": 2990,
+      "categoryId": 94,
+      "name": "GARLYN W-01",
+      "model": "GARLYN W-01",
+      "description": "Измерение с точностью до 1 г. при максимальной нагрузке до 5 кг. Функция вычета весы тары. Долговечный стальной корпус и встроенный дисплей.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/01/w-01.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-gl-200/",
+      "price": 19900,
+      "categoryId": 91,
+      "name": "GARLYN GL-200",
+      "model": "GARLYN GL-200",
+      "description": "Идеальные стейки и другие блюда на электрогриле. 7 автопрограмм приготовления с выбором нужной степени прожарки. Съёмные панели с двойным антипригарным покрытием и встроенным ТЭНом.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/01/gl-200-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-tr-350/",
+      "price": 3900,
+      "categoryId": 95,
+      "name": "GARLYN TR-350",
+      "model": "GARLYN TR-350",
+      "description": "Идеальные тосты из любых сортов хлеба. 7 степеней прожарки, функции разморозки и подогрева. Стильный помощник для самых вкусных завтраков в долговечном корпусе из нержавеющей стали.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2021/07/tr-350.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-sr-600/",
+      "price": 32900,
+      "categoryId": 87,
+      "name": "GARLYN SR-600",
+      "model": "GARLYN SR-600",
+      "description": "По-настоящему умный помощник со smart-навигацией. Построение карт и маршрутов уборки с функцией зонирования. 2,5 часа непрерывной очистки и обеззараживания - чистота и свежесть каждый день.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/10/garlyn-sr-600.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-k-110/",
+      "price": 6900,
+      "categoryId": 85,
+      "name": "GARLYN K-110",
+      "model": "GARLYN K-110",
+      "description": "Чайник с функцией подогрева от 40℃ до 90℃ и поддержанием температуры до 2 часов. Заварочный фильтр в комплекте. Корпус из термостойкого стекла и нержавеющей стали, электронное управление и встроенный дисплей.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/07/k-110-small.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-k-100/",
+      "price": 3900,
+      "categoryId": 85,
+      "name": "GARLYN K-100",
+      "model": "GARLYN K-100",
+      "description": "Чайник с непрерывной индикацией температуры. Точное измерение на встроенном термометре. Надёжный металлический корпус и стильный дизайн.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/07/k-100-small.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-j-500/",
+      "price": 12900,
+      "categoryId": 79,
+      "name": "GARLYN J-500",
+      "model": "GARLYN J-500",
+      "description": "Литры готового сока - всего за пару минут. 4 скорости отжима, фильтр с титановым покрытием, электронное управление и встроенный дисплей.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/07/j-500-small.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-hb-320/",
+      "price": 14900,
+      "categoryId": 86,
+      "name": "GARLYN HB-320",
+      "model": "GARLYN HB-320",
+      "description": "9 функций в одном компактном блендере. Используйте все насадки и готовьте блюда в разы быстрее. Мощность 1300 Вт и скорость до 16000 об/мин.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/06/320.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-hb-310/",
+      "price": 5900,
+      "categoryId": 86,
+      "name": "GARLYN HB-310",
+      "model": "GARLYN HB-310",
+      "description": "Мощный и быстрый помощник 3в1: измельчает, блендирует и взбивает. Скорость до 16000 об/мин. Идеальная консистенция при каждом приготовлении.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/04/310.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-d-08/",
+      "price": 8900,
+      "categoryId": 80,
+      "name": "GARLYN D-08",
+      "model": "GARLYN D-08",
+      "description": "Сушка овощей и фруктов, ягод и зелени, приготовление домашней пастилы и йогурта, вяленых снеков из рыбы и мяса. 8 уровней в комплекте. Регулировка температуры 35-70 ºC и защита от перегрева.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/03/garlyn-d-08-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-v-1000/",
+      "price": 19900,
+      "categoryId": 45,
+      "name": "GARLYN V-1000",
+      "model": "GARLYN V-1000",
+      "description": "Вакуумный блендер для идеальных смузи и коктейлей. Однородная консистенция, сохранение пользы и быстрый результат - в стильном и долговечном корпусе. \n Измельчение в вакууме | Однородная консистенция без вспенивания | Кувшин из тритана объёмом 1,75 л | 9 встроенных программ | Функция быстрой очистки",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/02/v-1000-1-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-v-400/",
+      "price": 8900,
+      "categoryId": 78,
+      "name": "GARLYN V-400",
+      "model": "GARLYN V-400",
+      "description": "Свежий вкус и максимальная польза продуктов до 10 раз дольше. Электронный контроль температуры и турбо-режим вакуумирования. Пакеты и рулон - в комплекте.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/02/v-400-front-1200h1200.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-j700-pro/",
+      "price": 17900,
+      "categoryId": 79,
+      "name": "GARLYN J-700 Pro",
+      "model": "GARLYN J-700 Pro",
+      "description": "Максимум вкуса и пользы - минимум времени на очистку. Бессеточный фильтр нового поколения и безопасный отжим с сохранением витаминов в соке.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/02/garlyn-j-700-pro.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-l70-metal/",
+      "price": 16900,
+      "categoryId": 46,
+      "name": "GARLYN L70",
+      "model": "GARLYN L70",
+      "description": "Эспрессо, латте и капучино в авторежиме под давлением 15 бар. Программируемый размер порций по Вашему вкусу и управление одним нажатием.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2020/02/front-1.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-s-300/",
+      "price": 14900,
+      "categoryId": 45,
+      "name": "GARLYN S-300",
+      "model": "GARLYN S-300",
+      "description": "Коктейли, смузи, крем-супы и колка льда - за минуту. Профессиональная мощность 1600 Вт, кувшин из стекла объёмом 1,8 л. 3 автопрограммы + ручная регулировка скорости.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2019/10/garlyn-s-300-mini.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-home-br-1000/",
+      "price": 19900,
+      "categoryId": 43,
+      "name": "GARLYN Home BR-1000",
+      "model": "GARLYN Home BR-1000",
+      "description": "Хлеб и выпечка, йогурты и джемы, любые виды теста - в авторежиме. 15 встроенных программ, выпечка до 1 кг и долговечный металлический корпус. Готовьте выпечку с начинками и программируйте приготовление заранее с помощью встроенного таймера с отсрочкой до 15 часов.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2019/10/garlyn-br_1000.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-s-500/",
+      "price": 34900,
+      "categoryId": 44,
+      "name": "GARLYN S-500",
+      "model": "GARLYN S-500",
+      "description": "Функциональный помощник 5в1 превратит готовку в удовольствие. Максимальная комплектация и стильный металлический корпус. Высокая мощность и вместительная чаша на 5,5 л. Плавная регулировка скорости и фирменная защита двигателя.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2019/10/microsoftteams-image-44.png"
+    },
+    {
+      "url": "https://garlyn.ru/product/garlyn-s-350/",
+      "price": 16900,
+      "categoryId": 44,
+      "name": "GARLYN S-350",
+      "model": "GARLYN S-350",
+      "description": "Любые виды теста и нежнейший сливочный крем - за пару минут. Кухонная машина 3в1 превратит готовку в удовольствие. Мощность 1500 Вт и чаша ёмкостью 5,5 л. Регулировка скорости для разных кулинарных задач и возможность расширить функционал дополнительными насадками.",
+      "currencyId": "RUB",
+      "picture": "https://garlyn.ru/wp-content/uploads/2019/10/microsoftteams-image-35.png"
+    }
+  ]
+}
